@@ -12,7 +12,8 @@ How to run:
 1. Download files
 2. Go to your file directory in the terminal
 3. run $ npm run dev
-4. Give me a star and follow me!
+4. Open localhost:3000 on your browser
+5. Give me a star and follow me!
 
 Lessons Learned:
 
